@@ -36,7 +36,7 @@ body {
     font-family: 'Mulish', sans-serif;
     font-size: 13px;
     color: #000000;
-    background: #f5f5f5;
+    background: #C1DFE7;
 }
 
 .slick-slider {
@@ -188,12 +188,12 @@ a {
 }
 
 .osahan-menu-fotter .col.selected a {
-    color: #dc3545;
+    color: #014021;
     background: #f8f9fa;
 }
 
 .osahan-menu-fotter .col.selected p {
-    color: #dc3545;
+    color: #014021;
 }
 
 .osahan-menu-fotter .col.bg-white.rounded-circle.mt-n4.px-3.py-2 {
@@ -252,8 +252,8 @@ a {
     border-radius: .40rem !important;
     pointer-events: none;
     position: absolute;
-    border-color: #d92662;
-    border: 2px solid #d92662;
+    border-color: #014021;
+    border: 2px solid #014021;
     display: block;
 }
 
@@ -421,7 +421,7 @@ a {
 }
 
 .btn-facebook {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d92662+0,e23744+100 */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#014021+0,014021+100 */
     background: #2b4170;
     /* Old browsers */
     background: -moz-linear-gradient(45deg, #3b5998 0%, #2b4170 100%);
@@ -437,77 +437,74 @@ a {
 }
 
 .bg-primary {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d92662+0,e23744+100 */
-    background: #d92662;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#014021+0,014021+100 */
+    background: #014021;
     /* Old browsers */
-    background: -moz-linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: -moz-linear-gradient(45deg, #014021 0%, #014021 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: -webkit-linear-gradient(45deg, #014021 0%, #014021 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: linear-gradient(45deg, #014021 0%, #014021 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d92662', endColorstr='#e23744', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#014021', endColorstr='#014021', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
     ;
 }
 
 .btn-primary {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d92662+0,e23744+100 */
-    background: #d92662;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#014021+0,014021+100 */
+    background: #014021;
     /* Old browsers */
-    background: -moz-linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d92662', endColorstr='#e23744', GradientType=1);
+    background: #014021;
     /* IE6-9 fallback on horizontal gradient */
-    border-color: #d92662;
+    border-color: #014021;
 }
 
 .btn-primary:hover {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d92662+0,e23744+100 */
-    background: #d92662;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#014021+0,014021+100 */
+    background: #014021;
     /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d92662', endColorstr='#e23744', GradientType=1);
-    /* IE6-9 fallback on horizontal gradient */
-    border-color: #e23744;
+    background: #014021;
 }
 
 .btn-outline-primary {
-    color: #e23744;
-    border-color: #e23744;
+    color:  #014021;
+    border-color: #014021;
 }
 
 .btn-outline-primary:hover {
     color: #ffffff;
-    background: #d92662;
+    background: #014021;
     /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #d92662 0%, #e23744 100%);
+    background: #014021;
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d92662', endColorstr='#e23744', GradientType=1);
+    background: #014021;
     /* IE6-9 fallback on horizontal gradient */
-    border-color: #e23744;
 }
 
 .text-primary {
-    color: #e23744 !important;
+    color: #014021 !important;
     text-decoration: none !important;
 }
 
 a {
-    color: #e23744;
+    color: #014021;
     text-decoration: none !important;
 }
 
@@ -518,7 +515,7 @@ p {
 
 .btn-link {
     font-weight: 400;
-    color: #e23744;
+    color: #014021;
     text-decoration: none !important;
 }
 
@@ -742,8 +739,8 @@ p {
 /* Filter */
 
 .filter .form-check-input:checked{
-    border-color: #e23744;
-    background-color: #e23744;
+    border-color: #014021;
+    background-color: #014021;
 }
 
 /* Cart */
@@ -832,7 +829,7 @@ p {
     padding-bottom: 50%;
     pointer-events: none;
     background-color: rgba(225, 48, 8, .2);
-    border: 1px solid #ff3008;
+    border: 1px solid #014021;
 }
 
 .osahan-map iframe {
@@ -1137,13 +1134,13 @@ footer .text-muted {
 
 .custom-tabs.nav-tabs .nav-item.show .nav-link,
 .custom-tabs.nav-tabs .nav-link.active {
-    border-bottom: 2px solid #d92662 !important;
+    border-bottom: 2px solid #014021 !important;
 }
 
 .search .nav-tabs .nav-item.show .nav-link,
 .search .nav-tabs .nav-link.active {
-    border-bottom: 2px solid #dc375d !important;
-    background-color: #dc375d !important;
+    border-bottom: 2px solid #014021 !important;
+    background-color: #014021 !important;
     color: #ffffff !important;
 }
 
@@ -1160,8 +1157,8 @@ footer .text-muted {
 
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-    border-bottom: 2px solid #dc375d !important;
-    color: #dc375d !important;
+    border-bottom: 2px solid #014021 !important;
+    color: #014021 !important;
 }
 
 
@@ -1197,6 +1194,7 @@ footer .text-muted {
     }
     .section-header {
         display: none;
+        background-color: #C1DFE7 !important;
     }
     .header-main {
         height: 67px;
