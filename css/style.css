@@ -1196,6 +1196,17 @@ footer .text-muted {
         display: none;
         background-color: #C1DFE7 !important;
     }
+    
+    .section-header .header-main {
+        padding: 10px 0; /* Adjust padding to your preference */
+    }
+    .brand-wrap img {
+        max-width: 150px; /* Ensure the logo is not too large */
+    }
+    .widget-header {
+        font-size: 16px;
+    }
+
     .header-main {
         height: 67px;
     }
